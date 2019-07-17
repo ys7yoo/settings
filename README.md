@@ -30,4 +30,16 @@ sudo ./NVIDIA-Linux-x86_64-430.34.run --no-opengl-files
 | ------------- |:-------------:| :-----:|  :-----:|
 | 9       |  7  |  1.5 ~ 1.12 | 3.3 ~ 3.6 |
 
-Currently, use Tensorflow 1.12 with Python 3.6
+* current versions
+```
+yyoo@omega:~$ cat /usr/local/cuda/version.txt
+CUDA Version 9.0.176
+
+yyoo@omega:~$ grep CUDNN_MAJOR -A 2 /usr/local/cuda/include/cudnn.h
+#define CUDNN_MAJOR 7
+#define CUDNN_MINOR 0
+#define CUDNN_PATCHLEVEL 5
+```
+
+Use Tensorflow 1.10 with Python 3.6
+
