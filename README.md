@@ -9,6 +9,7 @@ server settings
  * Release Date:	2019.7.9
 ```bash
 wget http://us.download.nvidia.com/XFree86/Linux-x86_64/430.34/NVIDIA-Linux-x86_64-430.34.run
-chmod 755 NVIDIA-Linux-x86_64-430.34.run 
+chmod 755 NVIDIA-Linux-x86_64-430.34.run
+sudo ./NVIDIA-Linux-x86_64-430.34.run --no-opengl-files
 ```
 
