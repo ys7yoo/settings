@@ -22,3 +22,6 @@ sudo ./NVIDIA-Linux-x86_64-430.34.run --no-opengl-files
  sudo service lightdm start
  ```
  
+## CUDA
+
+## cuDNN
