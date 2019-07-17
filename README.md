@@ -41,5 +41,5 @@ yyoo@omega:~$ grep CUDNN_MAJOR -A 2 /usr/local/cuda/include/cudnn.h
 #define CUDNN_PATCHLEVEL 5
 ```
 
-Use Tensorflow *1.10* with Python 3.6
+Use TensorFlow *1.10* with Python 3.6
 
