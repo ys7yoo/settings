@@ -30,6 +30,4 @@ sudo ./NVIDIA-Linux-x86_64-430.34.run --no-opengl-files
 | ------------- |:-------------:| :-----:|  :-----:|
 | 9       |  7  |  1.5 ~ 1.12 | 3.3 ~ 3.6 |
 
-## CUDA
-
-## cuDNN
+Currently, use Tensorflow 1.12 with Python 3.6
