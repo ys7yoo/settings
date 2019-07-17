@@ -24,4 +24,12 @@ sudo ./NVIDIA-Linux-x86_64-430.34.run --no-opengl-files
  
 ## CUDA
 
+
+* [CUDA and cuDNN versions](https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible)
+
+
+| CUDA      |  cuDNN |  TensorFlow  | PyTorch | 
+| ------------- |:-------------:| :-----:|  :-----:|
+| 9       |  7  |  1.5 ~ 1.12 | |
+
 ## cuDNN
